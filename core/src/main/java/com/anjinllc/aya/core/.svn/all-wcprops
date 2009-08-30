@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core/Connection.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core/Server.java
+END
+AyaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core/AyaException.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core/Connector.java
+END
+ConnectionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core/ConnectionCallback.java
+END
+ConnectorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/core/ConnectorController.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io
+END
+InputStreamDataPump.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/InputStreamDataPump.java
+END
+DataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/DataException.java
+END
+OutputStreamDataSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/OutputStreamDataSink.java
+END
+DataPump.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/DataPump.java
+END
+DataComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/DataComponent.java
+END
+UncategorizedDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/UncategorizedDataException.java
+END
+DataSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/DataSink.java
+END

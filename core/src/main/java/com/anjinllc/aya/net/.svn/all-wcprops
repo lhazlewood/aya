@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/net
+END
+SocketConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/net/SocketConnector.java
+END
+SocketConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/net/SocketConnection.java
+END
+NetworkConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/net/NetworkConnection.java
+END

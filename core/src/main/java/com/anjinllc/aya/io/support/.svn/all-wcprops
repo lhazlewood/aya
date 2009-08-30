@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/support
+END
+IOExceptionTranslatorAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/support/IOExceptionTranslatorAware.java
+END
+SubclassIOExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/support/SubclassIOExceptionTranslator.java
+END
+IOExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/support/IOExceptionTranslator.java
+END
+AbstractFallbackIOExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/support/AbstractFallbackIOExceptionTranslator.java
+END
+IOAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aya/!svn/ver/5/trunk/core/src/main/java/com/anjinllc/aya/io/support/IOAccessor.java
+END
